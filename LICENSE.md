@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Module | slippage-control + machine-learning-models offers the most advanced Polymarket module, with slippage-control and machine-learning-models. Ideal for
 
 
 
